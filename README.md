@@ -1,1 +1,1 @@
-# twitchHost-bot
+# twitchHost bot 🤖
