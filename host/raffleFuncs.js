@@ -69,6 +69,7 @@ module.exports = {
         varsGlobal.channelWinner = getRandomItem(raf, varsGlobal.weight);
         //return(weighed_list[random_num]);
         console.log(varsGlobal.channelWinner)
+        //
         //console.log(weighed_list[random_num]);
     }
      
