@@ -1,5 +1,7 @@
 # Twitch Bot 🤖: A bot to auto host channels
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4843be63952142a3be09af2cdd3722e1)](https://app.codacy.com/manual/dtayrone1/twitchHost-bot?utm_source=github.com&utm_medium=referral&utm_content=mekpower/twitchHost-bot&utm_campaign=Badge_Grade_Dashboard)
+
 ![twitch]
 
 ![app-vaylor][app]  ![github-stars][stars] ![commit][last-commit] [![patreon][patreon]](https://www.patreon.com/bePatron?u=19783035)
