@@ -1,10 +1,8 @@
 # Twitch Bot 🤖: A bot to auto host channels
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4843be63952142a3be09af2cdd3722e1)](https://app.codacy.com/manual/dtayrone1/twitchHost-bot?utm_source=github.com&utm_medium=referral&utm_content=mekpower/twitchHost-bot&utm_campaign=Badge_Grade_Dashboard)
+![twitch](https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%28wordmark_only%29.svg)
 
-![twitch]
-
-![app-vaylor][app]  ![github-stars][stars] ![commit][last-commit] [![patreon][patreon]](https://www.patreon.com/bePatron?u=19783035)
+![github-stars][stars] ![commit][last-commit] [![patreon][patreon]](https://www.patreon.com/bePatron?u=19783035) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4843be63952142a3be09af2cdd3722e1)](https://app.codacy.com/manual/dtayrone1/twitchHost-bot?utm_source=github.com&utm_medium=referral&utm_content=mekpower/twitchHost-bot&utm_campaign=Badge_Grade_Dashboard)
 
 A bot to auto host twitch channels by another channel, through automatic draw.
 
@@ -73,5 +71,4 @@ We can always improve and optimize the code! If you see any inconsistencies, err
 [twitch oauth]: https://twitchapps.com/tmi/
 [last-commit]: https://img.shields.io/github/last-commit/mekpower/twitchHost-bot
 [twitch-bot]: https://www.npmjs.com/package/twitch-bot
-[twitch]:https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%28wordmark_only%29.svg
 [patreon]:https://img.shields.io/badge/patreon-donate-green.svg
