@@ -1,14 +1,18 @@
 var tmi = require("tmi.js")
 var {channelWinner, isJoinOpen, list, weight} = require ("./globalVariables");
 const TwitchBot = require('twitch-bot')
- 
 
-var channelName= "youhosttv";
+//you can delete this
+import configJ from  ('./myconfig.json')
+
+//change to the bor channel name
+var channelName= configJ.channelNames;
 var prefix = "!";
 
 const Bot = new TwitchBot({
     username: channelName,
-    oauth: 'oauth:9bxs7vopswa4hkcil9bl6jakd9btom',
+    //change to the your oauth
+    oauth: configJ.oauth,
     channels: [channelName]
   })
 
@@ -31,12 +35,8 @@ Bot.on('message', chatter => {
         commandFile.run(Bot, chatter.message, chatter.username, chatter.subscriber, chatter.mod)
 
     } catch (err) {
-        Bot.say("Command doesnt exist.")
+        //If you want to make anything with no have this command
+        //Bot.say("Command doesnt exist.")
         return;
     }
-
-    
-
-//    const stopHost = clearInterval(startHost);
-    //=============
 })
