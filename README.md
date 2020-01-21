@@ -1,8 +1,8 @@
 # Twitch Bot 🤖: A bot to auto host channels
 
-![app-vaylor][app]  ![github-stars][stars] ![commit][last-commit] 
+![twitch]
 
-<a href="https://www.patreon.com/bePatron?u=19783035" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+![app-vaylor][app]  ![github-stars][stars] ![commit][last-commit] [![patreon][patreon]](https://www.patreon.com/bePatron?u=19783035)
 
 A bot to auto host twitch channels by another channel, through automatic draw.
 
@@ -71,3 +71,5 @@ We can always improve and optimize the code! If you see any inconsistencies, err
 [twitch oauth]: https://twitchapps.com/tmi/
 [last-commit]: https://img.shields.io/github/last-commit/mekpower/twitchHost-bot
 [twitch-bot]: https://www.npmjs.com/package/twitch-bot
+[twitch]:https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%28wordmark_only%29.svg
+[patreon]:https://img.shields.io/badge/patreon-donate-green.svg
